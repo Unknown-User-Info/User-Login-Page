@@ -51,6 +51,10 @@ p.forgot_pass {
     font-style: italic;
 }
 
+a.forgot_pass {
+    text-decoration: none;
+}
+
 img.media {
     height: 50px;
     width: 50px;
