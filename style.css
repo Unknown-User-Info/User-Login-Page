@@ -46,13 +46,16 @@ hr {
 }
 
 
-p.forgot_pass {
+a.forgot_pass {
     font-family: 'Georgia';
     font-style: italic;
+    color: white;
+    text-decoration: none;
 }
 
-a.forgot_pass {
-    text-decoration: none;
+a.forgot_pass:hover {
+    color: yellow;
+    text-decoration: underline;
 }
 
 img.media {
